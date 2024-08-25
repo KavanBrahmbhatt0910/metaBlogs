@@ -67,6 +67,9 @@ MetaBlog is a simple yet elegant blogging platform focused on tech-related blogs
 - **Pages**: Different pages of the application, like login, signup, profile, etc.
 - **Styles**: Global and component-specific styles.
 
+### Architecture Diagram
+![Architecture Diagram Of MetaBlog](images/image.png)
+
 ## Cloning and Running the Project Locally
 
 ### Prerequisites
